@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @hungtd-hblab
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-hungtd-hblab/hungtd-hblab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hungtd-hblab&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hungtd-hblab&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hungtd-hblab&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hungtd-hblab&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hungtd-hblab&theme=nord_dark)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungtd-hblab&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungtd-hblab&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/hungtd-hblab)-->
+
+![](https://komarev.com/ghpvc/?username=hungtd-hblab)
